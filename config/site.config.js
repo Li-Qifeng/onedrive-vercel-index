@@ -55,11 +55,11 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'blog',
+      name: 'Blog',
       link: 'https://belikov.top'
     },
     {
-      name: 'airbnb',
+      name: 'ChatGPT',
       link: 'https://gpt.belikov.top'
     }
   ],
